@@ -9,7 +9,7 @@
 - 👨‍💻 Check out my projects at [My Portfolio](https://anantsagar01.github.io/Anant_Sagar_portfolio/)  
 - 💬 Ask me about **Java, RDBMS, Kotlin**, and **DevOps**  
 - 📫 Reach me at **anantsagar0000@gmail.com**  
-- 📄 View my resume [here]([https://drive.google.com/file/d/1GsOlF3LiTU6xlZzvcHgwslFcmQNud8bT/view?usp=sharing](https://drive.google.com/drive/folders/1RLE1N5j9Y2Td0aQX0T8KSfJ8onwT6kJ7?usp=drive_link))  
+- 📄 View my resume [here](https://drive.google.com/file/d/1GsOlF3LiTU6xlZzvcHgwslFcmQNud8bT/view?usp=sharing](https://drive.google.com/drive/folders/1RLE1N5j9Y2Td0aQX0T8KSfJ8onwT6kJ7?usp=drive_link))  
 - ⚡ Fun fact: **I'm pretty cool 😎**
 
 <h3 align="left">Connect with me:</h3>
